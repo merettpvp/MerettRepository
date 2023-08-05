@@ -1,1 +1,1 @@
-print ("sozinho, repositorio é qual?")
+print ("sozinho, repositorio é eeeeeeequal?")
